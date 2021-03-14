@@ -159,3 +159,4 @@ class RankUp extends PluginBase
         return $this->rankUpDoesGroups instanceof RankUpDoesGroups;
     }
 }
+}
